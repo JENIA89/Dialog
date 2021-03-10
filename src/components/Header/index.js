@@ -1,6 +1,6 @@
-import './style.css';
 import Theme from './Theme';
 import UserInfo from './UserInfo';
+import './style.css';
 
 const Header = () => {
   return (

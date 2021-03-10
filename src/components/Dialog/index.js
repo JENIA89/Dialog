@@ -1,13 +1,10 @@
 import React, { useReducer, useEffect, useRef } from 'react';
 import PropTypes from 'prop-types';
-
 import Item from './Item';
 import Title from './Title';
-
 import { normalizeDialog } from './helpers';
 import reducer from './reducer';
 import data from '../../data';
-
 import './style.css';
 
 const Dialog = ({ newMessage }) => {
