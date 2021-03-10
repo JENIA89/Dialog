@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
-https://react-dialog-app.netlify.app/
+# https://react-dialog-app.netlify.app/
 
 
